@@ -18,6 +18,10 @@ public class MyFirstApp {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Panida Nanthayana 55021340");
+        
+        
+        System.out.println("Information Technology");
+        System.out.println("University of Phayao");
     }
     
 }
